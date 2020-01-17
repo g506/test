@@ -1,1 +1,1 @@
-# test
+"Hello Sugar Labs"
